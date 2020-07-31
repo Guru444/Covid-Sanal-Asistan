@@ -74,3 +74,5 @@ Ayrıca, Covid Sanal Asistan kullanıcıların dünya genelindeki Covi-19'a dair
 Projede kullanılan veritabanı Varlık İlişki (Entity Relationship) diyagramı aşağıdaki gibidir:
 
 <img src="images/veritaban.png">
+
+Veritabanındaki Covid-19 bilgi soruları ve etiketleri PHP ile oluşturulan bir arayüz üzerinden girilmektedir. 
