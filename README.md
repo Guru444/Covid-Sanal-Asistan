@@ -73,33 +73,41 @@ Ayrıca, Covid Sanal Asistan kullanıcıların dünya genelindeki Covi-19'a dair
 
 Projede kullanılan veritabanı Varlık İlişki (Entity Relationship) diyagramı aşağıdaki gibidir:
 
-<img src="images/veritaban.png"  style="height:200px;" />
+<img src="images/veritaban.png"  width="100%" height="100%" />
 
 Veritabanındaki Covid-19 bilgi soruları ve etiketleri PHP ile oluşturulan bir arayüz üzerinden girilmektedir. Öncelikle bir soru cümlesi ve cevabı sisteme girilip, daha sonra bu soruya verilecek olan etiketler ayrıca giriş yapılmaktadır. Daha sonra ilgili soru ve etiketler eşleştirilmektedir.
 
-<img src="images/verigirisi.png" style="height:200px;" />
+<img src="images/verigirisi.png" width="100%" height="100%" />
 
 Covid Sanal Asistan'ın başarısını gözlemlemek, çalışmasını iyileştirmek amacıyla kullanıcıların sormuş olduğu her soru ve sistemin o kullanıcıya verdiği cevap veritabanına kaydedilmektedir. Bu kayıtlar bir arayüz üzerinden listelenmekte ve sanal asistanın kullanımını bu kayıtlar sayesinde gözlemlenmektedir.
 
 # COVİD SANAL ASİSTAN GÖSTERİM
-<img src="images/chatBotDemo.gif" width="40" height="40" />
+<img src="images/chatBotDemo.gif" width="100%" height="100%" />
 
-# KULLANILAN TEKNOLOJİLER VE KAYNAKLAR
+# KULLANILAN TEKNOLOJİLER VE LİSANSLAR
 
 Bu çalışmada Türkçe kelimelerin morfolojik analizi için açık kaynak kodlu Türkçe doğal dil işleme kütüphanesi olan NZemberek kullanılmıştır. Veritabanı MySQL veritabanı motoru kullanılarak oluşturulmuştur ve veriler bu veritabanında tutulmuştur. Projenin arayüzü için ColorLib sitesinden açık kaynak kodlu temalardan biri tercih edilmiştir. Site içerisinde kullanılan görsellerin tamamı ücretsiz olup, söz konusu görseller FreePik sitesinden alınmıştır. Proje .NET platformunda geliştirilmiştir. Kullanılan tüm teknolojilere, araçlara ve materyallere dair lisans bilgileri aşağıdaki gibidir:
 
 NZemberek : https://www.mozilla.org/en-US/MPL/
 
-SQLite : https://sqlite.org/copyright.html
+MySQL : https://www.mysql.com/about/legal/licensing/
 
-ColorLib : https://colorlib.com/wp/licence/
-
-FreePik : https://profile.freepik.com/license/free
+Bootsnipp : https://bootsnipp.com/license
 
 .Net FrameWork : https://dotnet.microsoft.com/en/dotnet_library_license.htm
 
+PHP : https://www.php.net/license/3_01.txt
 
 
-# COVİD SANAL ASİSTAN GÖSTERİM
+# TAKIM ÜYELERİ
+
+<dl>
+  <dt>Murat Karabulut</dt>
+  <dd>Takım Kaptanı - mkarabulut44@hotmail.com</dd>
+  <dt>Yusuf Uğurlu</dt>
+  <dd>Takım Üyesi - yusuf_ugurlu2015@outlook.com</dd>
+  <dt>İslam Mayda</dt>
+  <dd>Takım Üyesi - islam.mayda@stu.khas.edu.tr</dd>
+</dl>
 
 
