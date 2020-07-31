@@ -58,4 +58,18 @@ Ayrıca, Covid Sanal Asistan kullanıcıların dünya genelindeki Covi-19'a dair
   <li>Dünyada en çok vaka sayısı ve en az ölüm oranı nedir?</li>
 </ul> 
 
+# METODOLOJİ
+
+ Öncelikle kullanıcının sorduğu soru sırasıyla aşağıdaki önişleme aşamalarından geçirilmektedir.
+ <ol>
+  <li>Tüm soru cümlesi karakterleri küçük harfe çevrilmektedir.</li>
+  <li>Sorudaki noktalama işaretleri silinmektedir.</li>
+  <li>Sorunun genel Covid-19 bilgi sorusu mu, ülkelere dair istatistiksel veri sorusu mu olduğu ayırt edilmektedir.</li>
+  <li>Soru metni boşluklarına göre kelimelere ayrılmaktadır.</li>
+  <li>Soru içinde tek başına bir anlamı olmayan kelimeler (stop words) temizlenmektedir.</li>
+  <li>Türkçe doğal dil işleme kütüphanesi olan NZemberek ile kelimelerin gereksiz olan çekim ekleri atılmaktadır.</li>
+</ol>
+Önişleme adımlarından sonra soru metnindeki kelimeler web servis aracılığıyla veritabanında sorgulanmaktadır. Bu kelimeler, veritabanındaki soruların etiketleri ile karşılaştırılarak en yüksek eşleşme oranı hesaplanmaktadır. Sonuç olarak en yüksek eşleşme oranına sahip sorunun cevabı API aracılığıyla JSON formatında döndürülmektedir.
+
+Projede kullanılan veritabanı Varlık İlişki (Entity Relationship) diyagramı aşağıdaki gibidir:
 
