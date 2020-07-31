@@ -19,7 +19,7 @@ Covid-19 hakkında merak edilen sorulara açık ve anlaşılır cevaplar sunulma
 
   
   # 2- Ülkelere dair istatistiksel veriler
-Dünyadaki tüm ülkelerdeki Covid-19 salgınının etkisini sayısal verilerle paylaşan "https://www.worldometers.info/coronavirus" sayfası üzerinden çekilen verilere göre kullanıcıya sormuş olduğu ülkeye dair bilgiler sunulmaktadır. Kullanıcıya sunulan veri başlıkları aşağıdaki gibidir: 
+Dünyadaki tüm ülkelerdeki Covid-19 salgınının etkisini sayısal verilerle paylaşan "https://www.worldometers.info/coronavirus" sayfası üzerinden çekilen verilere göre kullanıcıya sormuş olduğu ülkeye dair bilgiler sunulmaktadır. Kullanıcıya sunulan veri başlıkları aşağıdaki gibidir. K 
 <br>
 <ul>
   <li>Toplam vaka sayısı</li>
@@ -38,6 +38,9 @@ Dünyadaki tüm ülkelerdeki Covid-19 salgınının etkisini sayısal verilerle 
   <li>Nüfus</li>
 </ul> 
 
+Ülkelere dair çekilen Covid verileri diğer geliştiricilerin de faydalanabilmesi amacıyla açık olarak şu API'de sunulmuştur: https://www.oyunpuanla.com/chatbot/liveCoronaData.php
+
+<br>
 Ülkelere dair yukarıda listelenen başlıklardaki veriler aşağıdaki şekilde örnek sorularla öğrenilebilir:
 <ul>
   <li>Türkiyede bugünkü vefat sayısı nedir?</li>
@@ -82,11 +85,13 @@ Veritabanındaki Covid-19 bilgi soruları ve etiketleri PHP ile oluşturulan bir
 Covid Sanal Asistan'ın başarısını gözlemlemek, çalışmasını iyileştirmek amacıyla kullanıcıların sormuş olduğu her soru ve sistemin o kullanıcıya verdiği cevap veritabanına kaydedilmektedir. Bu kayıtlar bir arayüz üzerinden listelenmekte ve sanal asistanın kullanımını bu kayıtlar sayesinde gözlemlenmektedir.
 
 # COVİD SANAL ASİSTAN GÖSTERİM
+
+Covid Sanal Asistan internet ortamına yüklenmiş olup, https://api.bilisimkulubu.online/chatbot.html bağlantısına tıklanarak test edilebilir durumdadır. Örnek bir gösterim aşağıda paylaşılmıştır.
 <img src="images/chatBotDemo.gif" width="100%" height="100%" />
 
 # KULLANILAN TEKNOLOJİLER VE LİSANSLAR
 
-Bu çalışmada Türkçe kelimelerin morfolojik analizi için açık kaynak kodlu Türkçe doğal dil işleme kütüphanesi olan NZemberek kullanılmıştır. Veritabanı MySQL veritabanı motoru kullanılarak oluşturulmuştur ve veriler bu veritabanında tutulmuştur. Projenin arayüzü için ColorLib sitesinden açık kaynak kodlu temalardan biri tercih edilmiştir. Site içerisinde kullanılan görsellerin tamamı ücretsiz olup, söz konusu görseller FreePik sitesinden alınmıştır. Proje .NET platformunda geliştirilmiştir. Kullanılan tüm teknolojilere, araçlara ve materyallere dair lisans bilgileri aşağıdaki gibidir:
+Bu çalışmada Türkçe kelimelerin morfolojik analizi için açık kaynak kodlu Türkçe doğal dil işleme kütüphanesi olan NZemberek kullanılmıştır. Veritabanı MySQL veritabanı motoru kullanılarak oluşturulmuştur ve veriler bu veritabanında tutulmuştur. Projenin arayüzü için Bootsnipp sitesinden açık kaynak kodlu temalardan biri tercih edilmiştir.  Projenin önyüzü .NET platformunda, arka tarafı ise PHP ile geliştirilmiştir. Kullanılan tüm teknolojilere, araçlara ve materyallere dair lisans bilgileri aşağıdaki gibidir:
 
 NZemberek : https://www.mozilla.org/en-US/MPL/
 
