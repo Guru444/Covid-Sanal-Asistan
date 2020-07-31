@@ -75,4 +75,4 @@ Projede kullanılan veritabanı Varlık İlişki (Entity Relationship) diyagram�
 
 <img src="images/veritaban.png">
 
-Veritabanındaki Covid-19 bilgi soruları ve etiketleri PHP ile oluşturulan bir arayüz üzerinden girilmektedir. 
+Veritabanındaki Covid-19 bilgi soruları ve etiketleri PHP ile oluşturulan bir arayüz üzerinden girilmektedir.  
