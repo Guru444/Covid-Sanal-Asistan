@@ -10,7 +10,7 @@ Bu projede, günümüzün güncel problemlerinden biri olan Covid-19 salgını h
 # COVID SANAL ASİSTAN'IN ÖZELLİKLERİ
   # 1- Sıkça sorulan sorulara cevaplar  
 Covid-19 hakkında merak edilen sorulara açık ve anlaşılır cevaplar sunulmaktadır. Kullanıcılar cevabını öğrenmek istediği herhangi bir soruyu farklı şekillerde sorabilir ve cevabını öğrenebilir. Kullanıcının yönelttiği soru cümlesi doğal dil işleme aşamasından geçirildiği için, önemli kelimelerin sırasının farklı olması veya farklı ekler alması doğru cevabın bulunmasına engel olmamaktadır. Örneğin, klimaların Covid-19 virüsü yayılmasındaki etkisini öğrenmek için aşağıdaki sorulardan herhangi biri sorulabilir ve sorular farklı şekillerde sorulmasına rağmen doğru cevap kullanıcıya verilmektedir. 
-<br>
+
 <ul>
   <li>Kapalı ortamlarda klima kullanmak tehlikeli midir ?</li>
   <li>Salgın döneminde klima riskli midir ?</li>
