@@ -10,7 +10,7 @@ Backend dosyası açıklama sayfası
 	Bu dosyada veritabanına girilen verileri gelen isteklere göre işleyerek, Json formatında API servisi veren bir web servis dosyasıdır.
 	
 4- covidParser.php
-	Bu dosyada "https://www.worldometers.info/coronavirus/" sitesinden tüm ülkelerin covid istatistikleri, DOM parser yöntemiyle çekilerek veritabanına kaydedilmektedir. Ve CronJob aracılığıyl dakikada bir veriler güncellenmektedir. 
+	Bu dosyada "https://www.worldometers.info/coronavirus/" sitesinden tüm ülkelerin covid istatistikleri, DOM parser yöntemiyle çekilerek veritabanına kaydedilmektedir. Ve CronJob aracılığıyl dakikada bir veriler güncellenmektedir.
 
 5- insert.php
 	Bu dosyada kullanıcıların sorduğu sorular ve sistemimizin verdiği cevapların insert.php ye gelen istek üzerine veritabanında loglanmasıdır.
