@@ -1,4 +1,4 @@
-BL Klasöründeki;
+BU Klasöründeki;
 ----
 clsApiDeger => Sözel kelimeler ve istatisksel bilgileri alınıp clsApiDeger ile degeri json formatında döndürmek için kullanıldı.
 
