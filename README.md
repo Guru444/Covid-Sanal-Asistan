@@ -18,7 +18,9 @@ Covid-19 hakkında merak edilen sorulara açık ve anlaşılır cevaplar sunulma
   <li>Toplu taşımada klima açılması sakıncalı mıdır ?</li>
 <ul>  
 <br>
-  # 2- Ülkelere dair istatistiksel veriler
+  
+  
+   # 2- Ülkelere dair istatistiksel veriler
 Dünyadaki tüm ülkelerdeki Covid-19 salgınının etkisini sayısal verilerle paylaşan "https://www.worldometers.info/coronavirus" sayfası üzerinden çekilen verilere göre kullanıcıya sormuş olduğu ülkeye dair bilgiler sunulmaktadır. Kullanıcıya sunulan veri başlıkları aşağıdaki gibidir: 
 <br>
 <ul>
