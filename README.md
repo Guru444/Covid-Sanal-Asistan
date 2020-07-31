@@ -75,6 +75,10 @@ Projede kullanılan veritabanı Varlık İlişki (Entity Relationship) diyagram�
 
 <img src="images/veritaban.png"  style="height:200px;" />
 
-Veritabanındaki Covid-19 bilgi soruları ve etiketleri PHP ile oluşturulan bir arayüz üzerinden girilmektedir.  
+Veritabanındaki Covid-19 bilgi soruları ve etiketleri PHP ile oluşturulan bir arayüz üzerinden girilmektedir. Öncelikle bir soru cümlesi ve cevabı sisteme girilip, daha sonra bu soruya verilecek olan etiketler ayrıca giriş yapılmaktadır. Daha sonra ilgili soru ve etiketler eşleştirilmektedir.
 
 <img src="images/verigirisi.png" style="height:200px;" />
+
+Covid Sanal Asistan'ın başarısını gözlemlemek, çalışmasını iyileştirmek amacıyla kullanıcıların sormuş olduğu her soru ve sistemin o kullanıcıya verdiği cevap veritabanına kaydedilmektedir. Bu kayıtlar bir arayüz üzerinden listelenmekte ve sanal asistanın kullanımını bu kayıtlar sayesinde gözlemlenmektedir.
+
+
