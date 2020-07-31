@@ -1,4 +1,4 @@
-Backend dosyası açıklama sayfası
+		Backend dosyası açıklama sayfası
 
 1 - baglanti.php
 	Bu dosyada sunucunuzdaki veya localde çalıştığınız veritabanına bağlantıyı tanımlama için kullanılmaktadır.
