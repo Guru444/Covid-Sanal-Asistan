@@ -40,7 +40,6 @@ Dünyadaki tüm ülkelerdeki Covid-19 salgınının etkisini sayısal verilerle 
 
 Ülkelere dair çekilen Covid verileri diğer geliştiricilerin de faydalanabilmesi amacıyla açık olarak şu API'de sunulmuştur: https://www.oyunpuanla.com/chatbot/liveCoronaData.php
 
-<br>
 Ülkelere dair yukarıda listelenen başlıklardaki veriler aşağıdaki şekilde örnek sorularla öğrenilebilir:
 <ul>
   <li>Türkiyede bugünkü vefat sayısı nedir?</li>
@@ -87,6 +86,7 @@ Covid Sanal Asistan'ın başarısını gözlemlemek, çalışmasını iyileştir
 # COVİD SANAL ASİSTAN GÖSTERİM
 
 Covid Sanal Asistan internet ortamına yüklenmiş olup, https://api.bilisimkulubu.online/chatbot.html bağlantısına tıklanarak test edilebilir durumdadır. Örnek bir gösterim aşağıda paylaşılmıştır.
+
 <img src="images/chatBotDemo.gif" width="100%" height="100%" />
 
 # KULLANILAN TEKNOLOJİLER VE LİSANSLAR
