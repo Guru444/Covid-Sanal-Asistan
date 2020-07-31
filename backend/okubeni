@@ -1,1 +1,22 @@
+Backend dosyası açıklama sayfası
 
+1 - baglanti.php
+	Bu dosyada sunucunuzdaki veya localde çalıştığınız veritabanına bağlantıyı tanımlama için kullanılmaktadır.
+	
+2 - chatbot.php
+	Bu dosyada veri girişi ve etiketleme sürecini yapabilmektesiniz. Aynı zamanda girilen veri ve logların görüntülemesini sağlayabilirsiniz.
+
+3 - covidapi.php
+	Bu dosyada veritabanına girilen verileri gelen isteklere göre işleyerek, Json formatında API servisi veren bir web servis dosyasıdır.
+	
+4- covidParser.php
+	Bu dosyada "https://www.worldometers.info/coronavirus/" sitesinden tüm ülkelerin covid istatistikleri, DOM parser yöntemiyle çekilerek veritabanına kaydedilmektedir. Ve CronJob aracılığıyl dakikada bir veriler güncellenmektedir. 
+
+5- insert.php
+	Bu dosyada kullanıcıların sorduğu sorular ve sistemimizin verdiği cevapların insert.php ye gelen istek üzerine veritabanında loglanmasıdır.
+	
+6 - liveCoronaData.php
+	Bu dosyada "https://www.worldometers.info/coronavirus/" sitesinden çekilen covid istatistiklerinin bir API üzerinden paylaşılması sağlanmıştır.
+
+7 - simple_html_dom.php
+	Bu dosya genel Web DOM parser yönteminde aracı bir kütüphane olarak kullanılmıştır.
