@@ -85,3 +85,4 @@ Covid Sanal Asistan'ın başarısını gözlemlemek, çalışmasını iyileştir
 <video>
   <source src="images/chatBotDemo.mp4" type="video/mp4">
 </video>
+[![Alt text for your video](images/chatBotDemo.mp4)
