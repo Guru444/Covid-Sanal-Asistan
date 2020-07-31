@@ -4,7 +4,7 @@ Backend dosyası açıklama sayfası
 	Bu dosyada sunucunuzdaki veya localde çalıştığınız veritabanına bağlantıyı tanımlama için kullanılmaktadır.
 	
 2 - chatbot.php
-	Bu dosyada veri girişi ve etiketleme sürecini yapabilmektesiniz. Aynı zamanda girilen veri ve logların görüntülemesini sağlayabilirsiniz.
+	Bu dosyada veri girişi ve etiketleme sürecini yapabilmektesiniz. Aynı zamanda girilen veri ve logların görüntülemesini sağlayabilirsiniz. 
 
 3 - covidapi.php
 	Bu dosyada veritabanına girilen verileri gelen isteklere göre işleyerek, Json formatında API servisi veren bir web servis dosyasıdır.
