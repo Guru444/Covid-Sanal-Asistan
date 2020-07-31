@@ -1,7 +1,16 @@
-* VERİTABANI ER DİAGRAM
+* VERİTABANI TABLO AÇIKLAMALARI
 
+1 - CovidTableData
+     Bu tabloda tüm ülkelerin covid19 verileri tutulmaktadır.
+     
+2 - soruCevap
+    Bu tabloda soru ve cevaplar tutulmaktadır.
 
-<p align="center">
-  <img src="https://i.hizliresim.com/gNdPUg.png" width="350" title="hover text">
-  <img src="https://i.hizliresim.com/gNdPUg.png" width="350" alt="accessibility text">
-</p>
+3 - soruEtiket
+    Bu tablo ilişkisi tablosu olup hangi etiketin hangi sorulara bağlı olduğunu tutmaktadır.
+  
+4 - etiketler
+    Bu tabloda sorulara ait etiket verileri tutulmaktadır.
+    
+5 - logUser
+    Bu tabloda kullanıcıların sordukları sorular ve sistemimizin verdiği cevaplar tutulmaktadır.
