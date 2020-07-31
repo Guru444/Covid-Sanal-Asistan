@@ -1,6 +1,6 @@
 # COVID SANAL ASİSTAN
 
-<h4>Bu proje, Türkçe Doğal Dil İşleme Online Yarışması AçıkHack2 kapsamında GuruTeam tarafından hazırlandı.</h4>
+<h4>Bu proje, Türkçe Doğal Dil İşleme Online Yarışması AçıkHack2 kapsamında GuruTeam tarafından hazırlanmıştır.</h4>
 
 
 
@@ -17,7 +17,7 @@ Covid-19 hakkında merak edilen sorulara açık ve anlaşılır cevaplar sunulma
   <li>Klima virüsü bulaştırır mı ?</li>
   <li>Toplu taşımada klima açılması sakıncalı mıdır ?</li>
 <ul>  
-  
+<br>
   # 2- Ülkelere dair istatistiksel veriler
 Dünyadaki tüm ülkelerdeki Covid-19 salgınının etkisini sayısal verilerle paylaşan "https://www.worldometers.info/coronavirus" sayfası üzerinden çekilen verilere göre kullanıcıya sormuş olduğu ülkeye dair bilgiler sunulmaktadır. Kullanıcıya sunulan veri başlıkları aşağıdaki gibidir: 
 <br>
@@ -26,8 +26,16 @@ Dünyadaki tüm ülkelerdeki Covid-19 salgınının etkisini sayısal verilerle 
   <li>Bugünkü vaka sayısı</li>
   <li>Toplam ölüm sayısı</li>
   <li>Bugünkü ölüm sayısı</li>
-  <li>Amerikadaki toplam ölüm kaçtır ?</li>
-  <li>S</li>
+  <li>Toplam iyileşen sayısı</li>
+  <li>Bugünkü iyileşen sayısı</li>
+  <li>Ölüm oranı</li>
+  <li>Aktif vaka sayısı</li>
+  <li>Kritik vaka sayısı</li>
+  <li>1 milyondaki vaka sayısı</li>
+  <li>1 milyondaki ölüm sayısı</li>
+  <li>Toplam test sayısı</li>
+  <li>1 milyondaki test sayısı</li>
+  <li>Nüfus</li>
 <ul> 
 <br>
 <ul>
