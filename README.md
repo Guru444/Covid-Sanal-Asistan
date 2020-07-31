@@ -11,10 +11,10 @@ Bu projede, günümüzün güncel problemlerinden biri olan Covid-19 salgını h
   # 1- Sıkça sorulan sorulara cevaplar  
 Covid-19 hakkında merak edilen sorulara açık ve anlaşılır cevaplar sunulmaktadır. Kullanıcılar cevabını öğrenmek istediği herhangi bir soruyu farklı şekillerde sorabilir ve cevabını öğrenebilir. Kullanıcının yönelttiği soru cümlesi doğal dil işleme aşamasından geçirildiği için, önemli kelimelerin sırasının farklı olması veya farklı ekler alması doğru cevabın bulunmasına engel olmamaktadır. Örneğin, klimaların Covid-19 virüsü yayılmasındaki etkisini öğrenmek için aşağıdaki sorulardan herhangi biri sorulabilir ve sorular farklı şekillerde sorulmasına rağmen doğru cevap kullanıcıya verilmektedir. 
 <ul>
-  <li>Kapalı ortamlarda klima kullanmak tehlikeli midir ?</li>
-  <li>Salgın döneminde klima riskli midir ?</li>
-  <li>Klima virüsü bulaştırır mı ?</li>
-  <li>Toplu taşımada klima açılması sakıncalı mıdır ?</li>
+  <li>Kapalı ortamlarda klima kullanmak tehlikeli midir?</li>
+  <li>Salgın döneminde klima riskli midir?</li>
+  <li>Klima virüsü bulaştırır mı?</li>
+  <li>Toplu taşımada klima açılması sakıncalı mıdır?</li>
 </ul>  
 
   
@@ -37,10 +37,25 @@ Dünyadaki tüm ülkelerdeki Covid-19 salgınının etkisini sayısal verilerle 
   <li>1 milyondaki test sayısı</li>
   <li>Nüfus</li>
 </ul> 
-<br>
+
+Ülkelere dair yukarıda listelenen başlıklardaki veriler aşağıdaki şekilde örnek sorularla öğrenilebilir:
 <ul>
-  <li>Türkiyede bugünkü vefat sayısı nedir ?</li>
-  <li>Ülkemizdeki bugünkü vaka sayısı</li>
-  <li>Amerikadaki toplam ölüm kaçtır ?</li>
-  <li>S</li>
-<ul> 
+  <li>Türkiyede bugünkü vefat sayısı nedir?</li>
+  <li>Ülkemizdeki bugünkü vaka sayısı nedir?</li>
+  <li>Almanya'daki toplam ölüm oranı nedir?</li>
+  <li>Singapur'daki test sayısını öğrenebilir miyim?</li>
+  <li>Hırvatistan'daki toplam iyileşen sayısı nedir?</li>
+  <li>Tayland'ın 1 milyondaki ölüm sayısı nedir?</li>
+  <li>Singapur'daki test sayısını öğrenebilir miyim?</li>
+</ul> 
+
+Ayrıca, Covid Sanal Asistan kullanıcıların dünya genelindeki Covi-19'a dair sayısal verilerin en yüksek, en düşük gibi sorgulamalarına da cevap verebilmektedir. Aşağıdaki sorular buna örnek olarak veirlebilir:
+<ul>
+  <li>Dünyadaki en yüksek vaka sayısı nedir?</li>
+  <li>Dünyadaki en düşük ölüm oranını öğrenebilir miyim?</li>
+  <li>En yüksek test sayısını söyler misin?</li>
+  <li>Dünyada Bugünkü en yüksek ölüm sayısı nedir?</li>
+  <li>Dünyada en çok vaka sayısı ve en az ölüm oranı nedir?</li>
+</ul> 
+
+
