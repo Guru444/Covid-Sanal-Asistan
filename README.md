@@ -114,5 +114,6 @@ PHP : https://www.php.net/license/3_01.txt
   <dt>İslam Mayda</dt>
   <dd>Takım Üyesi - islam.mayda@stu.khas.edu.tr</dd>
 </dl>
-
-<a href="https://www.youtube.com/watch?v=9CDf-iU1VTQ&t=10s">Demo Linki</a>
+ <ol>
+<li><a href="https://www.youtube.com/watch?v=9CDf-iU1VTQ&t=10s" target="_blank">Covid Sanal Asistan Demo Linki</a></li>
+ </ol>
